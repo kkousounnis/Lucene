@@ -23,6 +23,10 @@ At the bottom of the page we can return to first page.
 ### Installation Guide - To pass All texts to Lucene
 Step Before running our application.
 
+![image](https://user-images.githubusercontent.com/39504405/94339643-10ffc980-0004-11eb-912f-f233b59f24ef.png)
+
+Here we take the file \cacm folder\ **CACM** and pass all the texts it to Lucene.
+
 ![image](https://user-images.githubusercontent.com/39504405/94339312-c4b38a00-0001-11eb-8f89-5db064b17389.png)
 
 We pass all text and Isbn numbers to Lucene from the given file which we already have \cacm folder\ **CACM** and ignoring all the **common words** that we don't need.
