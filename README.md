@@ -20,7 +20,7 @@ Here is the full text.
 At the bottom of the page we can return to first page.
 
 
-### Installation Guide - To pass All texts to Lucene
+## Installation Guide - To pass All texts to Lucene
 Step Before running our application.
 
 ![image](https://user-images.githubusercontent.com/39504405/94339643-10ffc980-0004-11eb-912f-f233b59f24ef.png)
